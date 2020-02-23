@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Histograms"
-date:       2020-02-23 04:37:58 +0000
+date:       2020-02-22 23:37:59 -0500
 permalink:  histograms
 ---
 
